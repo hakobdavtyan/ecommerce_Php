@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d4c3dfe-4b0b-4a56-9547-a1dbfe21bb70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1jEt0q3KHVKNEAEf8Qs1OL7spCy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d4c3dfe-4b0b-4a56-9547-a1dbfe21bb70" name="Default Changelist" comment="" />
+      <created>1603380858147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603380858147</updated>
+      <workItem from="1603380859635" duration="10652000" />
+      <workItem from="1603469559000" duration="10388000" />
+      <workItem from="1603548646767" duration="11890000" />
+      <workItem from="1603621068244" duration="2511000" />
+      <workItem from="1604161619595" duration="6512000" />
+      <workItem from="1604250120747" duration="6617000" />
+      <workItem from="1604305356198" duration="3018000" />
+      <workItem from="1604316153193" duration="2387000" />
+      <workItem from="1604334980656" duration="4593000" />
+      <workItem from="1604395296309" duration="1638000" />
+      <workItem from="1604426748324" duration="5137000" />
+      <workItem from="1604508919056" duration="6554000" />
+      <workItem from="1604590917955" duration="480000" />
+      <workItem from="1604656421312" duration="4731000" />
+      <workItem from="1605610534859" duration="2773000" />
+      <workItem from="1606043935050" duration="61000" />
+      <workItem from="1606043999167" duration="8334000" />
+      <workItem from="1606122876071" duration="458000" />
+      <workItem from="1606131221919" duration="1924000" />
+      <workItem from="1606156121131" duration="6366000" />
+      <workItem from="1606242348956" duration="10224000" />
+      <workItem from="1606296246767" duration="10281000" />
+      <workItem from="1606320760740" duration="14926000" />
+      <workItem from="1606412042099" duration="7619000" />
+      <workItem from="1606466824193" duration="7706000" />
+      <workItem from="1606556164109" duration="10464000" />
+      <workItem from="1606652743033" duration="12155000" />
+      <workItem from="1607022638335" duration="6678000" />
+      <workItem from="1607069753524" duration="5244000" />
+      <workItem from="1607371286232" duration="2028000" />
+      <workItem from="1607431951522" duration="66000" />
+      <workItem from="1607542112458" duration="4552000" />
+      <workItem from="1607598788551" duration="7769000" />
+      <workItem from="1607626942072" duration="11495000" />
+      <workItem from="1607680895965" duration="2597000" />
+      <workItem from="1607699037757" duration="16205000" />
+      <workItem from="1607878295265" duration="83000" />
+      <workItem from="1607878381462" duration="50000" />
+      <workItem from="1607878433190" duration="7154000" />
+      <workItem from="1607966330563" duration="14029000" />
+      <workItem from="1608020819420" duration="3675000" />
+      <workItem from="1608293216328" duration="336000" />
+      <workItem from="1608483645312" duration="2574000" />
+      <workItem from="1608545979621" duration="2985000" />
+      <workItem from="1608566428405" duration="561000" />
+      <workItem from="1608639351350" duration="1437000" />
+      <workItem from="1608647978371" duration="12504000" />
+      <workItem from="1608743168624" duration="3450000" />
+      <workItem from="1608810303999" duration="2519000" />
+      <workItem from="1608831473239" duration="15525000" />
+      <workItem from="1608923981445" duration="2513000" />
+      <workItem from="1608975751951" duration="4872000" />
+      <workItem from="1609065259877" duration="9048000" />
+      <workItem from="1609096742533" duration="3492000" />
+      <workItem from="1609150607750" duration="3816000" />
+      <workItem from="1609271956131" duration="14000" />
+      <workItem from="1609328597834" duration="2562000" />
+      <workItem from="1609352365483" duration="2999000" />
+      <workItem from="1609777186853" duration="6598000" />
+      <workItem from="1609851932696" duration="3216000" />
+      <workItem from="1609930988602" duration="437000" />
+      <workItem from="1609937593721" duration="8126000" />
+      <workItem from="1610043801062" duration="16000" />
+      <workItem from="1610186856684" duration="2935000" />
+      <workItem from="1610303541304" duration="4267000" />
+      <workItem from="1610353975420" duration="37000" />
+      <workItem from="1610443064691" duration="2684000" />
+      <workItem from="1610451565407" duration="13000" />
+      <workItem from="1610640819615" duration="14758000" />
+      <workItem from="1610708756116" duration="6363000" />
+      <workItem from="1610790452274" duration="14591000" />
+      <workItem from="1610822834341" duration="7074000" />
+      <workItem from="1611000691801" duration="282000" />
+      <workItem from="1611001083294" duration="191000" />
+      <workItem from="1611141018885" duration="2898000" />
+      <workItem from="1611165224116" duration="294000" />
+      <workItem from="1611166790440" duration="83000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Custom_Plugin_Repositories" timestamp="1608566670964">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Custom_Plugin_Repositories/0.0.1366.728@0.0.1366.728" timestamp="1608566670964" />
+    <state x="406" y="0" key="#PHP" timestamp="1604396006743">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="406" y="0" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1604396006743" />
+    <state x="463" y="122" width="440" height="537" key="FileChooserDialogImpl" timestamp="1611166870530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1611166870530" />
+    <state x="360" y="38" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1610451575565" />
+    <state x="360" y="38" width="440" height="537" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1611000974412" />
+    <state x="517" y="295" key="NewPhpFileDialog" timestamp="1606414041652">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="295" key="NewPhpFileDialog/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1603562437998" />
+    <state x="517" y="295" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1606414041652" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1608566877284">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608566877284" />
+    <state x="1522" y="0" width="1140" height="737" maximized="true" key="dock-window-1" timestamp="1606329312661">
+      <screen x="1366" y="0" width="1280" height="984" />
+    </state>
+    <state x="1522" y="0" width="1140" height="737" maximized="true" key="dock-window-1/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1606329312661" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1609330978390">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1609330978390" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1610827768760">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1607605951167" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1610827768760" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/../jazve-developers.com/app/Controller/VideosController.php</url>
+          <line>1025</line>
+          <properties>
+            <option name="className" value="\VideosController" />
+            <option name="methodName" value="test" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
